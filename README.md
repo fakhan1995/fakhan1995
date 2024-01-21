@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Faizan Ahmad Khan </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://img.freepik.com/free-vector/happy-freelancer-with-computer-home-young-man-sitting-armchair-using-laptop-chatting-online-smiling-vector-illustration-distance-work-online-learning-freelance_74855-8401.jpg?w=996&t=st=1705834955~exp=1705835555~hmac=ba61d883bd451b6bfa1879bb5b4f5ec8b878292bbeb54a2fdbd41d2485230a4a" alt="coding" />
+<img align="right" width="300px" height="300px" src="https://img.freepik.com/free-vector/happy-freelancer-with-computer-home-young-man-sitting-armchair-using-laptop-chatting-online-smiling-vector-illustration-distance-work-online-learning-freelance_74855-8401.jpg?w=996&t=st=1705834955~exp=1705835555~hmac=ba61d883bd451b6bfa1879bb5b4f5ec8b878292bbeb54a2fdbd41d2485230a4a" alt="coding" />
 
 - 👨‍💻 All of my projects are available at [https://fakhan95.netlify.app/](https://fakhan95.netlify.app/)
 
