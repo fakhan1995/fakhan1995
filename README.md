@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fakhan95.netlify.app/](https://fakhan95.netlify.app/)
 
-- 📫 How to reach me **fa4715944@gmail.com**
+- 📫 How to reach me **faizan.ahmad.khan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanahmadkhan1&theme=dark" alt="faizanahmadkhan1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhan1995&theme=dark" alt="fakhan1995" /></p>
