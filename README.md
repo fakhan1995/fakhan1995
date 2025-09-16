@@ -11,4 +11,5 @@
 
   
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fakhan1995&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fakhan1995)](https://git.io/streak-stats)
